@@ -1,0 +1,36 @@
+.App {
+  margin: 1rem;
+}
+
+.header {
+  font-size: 2rem;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  justify-content: baseline;
+  margin: 1rem 0;
+}
+
+input {
+  height: 1.2rem;
+  padding: 0.5rem;
+  font-size: 1.1em;
+}
+
+label {
+  font-weight: bold;
+}
+
+.warning {
+  padding: 0.5rem;
+  background-color: rgb(255, 253, 127);
+  border-radius: 10px;
+}
+
+.success {
+  padding: 0.5rem;
+  background-color: rgb(157, 255, 127);
+  border-radius: 10px;
+}
