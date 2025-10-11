@@ -119,6 +119,7 @@ Tenés que ejecutar `nvm install`.
 Copiate los siguientes archivos de este proyecto al raíz del tuyo:
 
 - [`.markdownlint.json`](./.markdownlint.json): la configuración de Linter para archivos markdown
+- [`eslint.config.js`](./eslint.config.js): la configuración de Linter para los archivos Typescript/Javascript/TSX/JSX que vamos a usar. A partir de 2025 estamos usando una **flat config**.
 - [`.gitignore`](./.gitignore): los archivos que hay que ignorar en .git (agregamos algunas líneas en base a las extensiones de VSCode)
 - [`vite.config.ts`](./vite.config.ts): la configuración que necesitamos para ejecutar los tests y recolectar el % de cobertura
 
