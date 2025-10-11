@@ -119,8 +119,6 @@ Tenés que ejecutar `nvm install`.
 Copiate los siguientes archivos de este proyecto al raíz del tuyo:
 
 - [`.markdownlint.json`](./.markdownlint.json): la configuración de Linter para archivos markdown
-- [`.prettierrc`](./.prettierrc): la configuración de Prettier para eliminar puntos y coma, definir tab de 2 espacios, utilizar single quote, etc. Es importante que tod@s tengan esta configuración para que no haya un montón de conflictos en git a la hora de pushear.
-- [`eslint.config.js`](./eslint.config.js): la configuración de Linter para los archivos Typescript/Javascript/TSX/JSX que vamos a usar. A partir de 2025 estamos usando una **flat config**.
 - [`.gitignore`](./.gitignore): los archivos que hay que ignorar en .git (agregamos algunas líneas en base a las extensiones de VSCode)
 - [`vite.config.ts`](./vite.config.ts): la configuración que necesitamos para ejecutar los tests y recolectar el % de cobertura
 
