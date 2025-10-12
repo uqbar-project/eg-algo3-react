@@ -26,7 +26,8 @@ export default [
         clearTimeout: 'readonly',
         HTMLInputElement: 'readonly',
         HTMLElement: 'readonly',
-        HTMLDivElement: 'readonly', 
+        HTMLDivElement: 'readonly',
+        HTMLSelectElement: 'readonly',
       },
     },
     plugins: {
