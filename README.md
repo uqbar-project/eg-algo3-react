@@ -1,7 +1,7 @@
 
 # Proyecto de ejemplo para Algo3
 
-![React Logo](./images/React-logo.png)
+<img src="./images/React-logo.png" alt="logo react" height="auto" width="190px">
 
 ## Pasos previos
 
