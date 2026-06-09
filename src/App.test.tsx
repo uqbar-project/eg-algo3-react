@@ -3,7 +3,7 @@ import App from './App'
 import { expect, test } from 'vitest'
 
 
-test('convierte un valor > 0 de millas a kilómetros correctamente', async () => {
+test('la aplicación levanta correctamente (smoke test)', async () => {
   render(<App />)
   expect(screen.getByTestId('principal')).toBeTruthy()
 })
