@@ -18,7 +18,7 @@ Si ya estuviste trabajando con otra tecnología estos pasos probablemente no son
 
 Dentro de Visual Studio Code, te recomendamos que crees un perfil vacío y lo asocies a tus nuevos proyectos React (podés ver [cómo se trabaja con perfiles en VSCode en este video](https://www.youtube.com/watch?v=_2F2Zt-_tUA), la recomendación es partir con un profile totalmente vacío. También te dejamos [este tutorial muy piola - en inglés](https://www.youtube.com/watch?v=QjvvqR9KyVo) y [la documentación oficial](https://code.visualstudio.com/docs/editor/profiles)). 
 
-La extensiones que te recomendamos instalar a 2025 son:
+La extensiones que te recomendamos instalar a 2026 son:
 
 - **Biome (`biomejs.biome`):** Esencial para el linting y formateo integrado.
 - **Error Lens (`usernamehw.errorlens`):** Resalta errores y advertencias directamente en la línea de código.
@@ -83,7 +83,7 @@ pnpm install
 
 ```bash
 pnpm dev                 # para levantar el server del frontend
-pnpm test --run.         # para ejecutar los tests
+pnpm test --run          # para ejecutar los tests
 pnpm add dependencia     # para agregar una dependencia
 pnpm add -D dependencia  # para agregar una dependencia de desarrollo
 ```
